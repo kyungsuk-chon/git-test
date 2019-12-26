@@ -1,0 +1,33 @@
+* {
+			font-family: 'Black Han Sans', sans-serif;
+		}
+		.jumbotron{
+		    margin-bottom : 0px;
+		    padding-bottom : 10px;
+		}
+
+		.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+		    border : 1px
+		    background-color: black !important;
+		}
+
+		.wrap {
+			width: 900px;
+			margin: auto;
+		}
+		.comment {
+			color: grey;
+			font-weight: bold;
+		}
+		.form-post {
+			max-width: 900px;
+			padding: 2rem;
+			margin: 2rem auto;
+			border-color: #e9ecef;
+			border-radius: 0.3rem;
+			border: solid;
+			display: block;
+		}
+		.table {
+		    font-size : 15px;
+		}
